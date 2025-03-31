@@ -1,0 +1,5 @@
+id_item,id_pedido,id_produto,quantidade,preco_unitario
+1,1001,101,1,3500.0
+2,1001,102,1,200.0
+3,1002,102,2,200.0
+4,1003,103,1,150.0

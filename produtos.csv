@@ -1,0 +1,4 @@
+id_produto,nome,categoria,preco
+101,Notebook,Eletronicos,3500.0
+102,Teclado,Acessorios,200.0
+103,Mouse,Acessorios,150.0
